@@ -1,0 +1,351 @@
+﻿id_resposta,data_avaliacao,canal_atendimento,nota_satisfacao,causa_principal,comentario_adicional
+1,2026-10-11,Chat Online,4,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+2,2026-10-26,Aplicativo,2,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+3,2026-10-24,E-mail,1,Tempo de espera elevado,
+4,2026-10-03,Aplicativo,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+5,2026-10-12,Telefone,5,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+6,2026-10-28,E-mail,1,Cobrança ou fatura incorreta,Veio uma taxa adicional na fatura que eu não contratei.
+7,2026-10-22,Presencial,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+8,2026-10-27,Chat Online,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+9,2026-10-28,Aplicativo,1,Falha ou instabilidade no sistema/aplicativo,
+10,2026-10-30,Telefone,1,Dificuldade de contato com o suporte,
+11,2026-10-23,Chat Online,1,Atendimento pouco resolutivo,
+12,2026-10-05,Chat Online,2,Outros,Sugiro melhorar o layout da área do cliente.
+13,2026-10-07,Aplicativo,1,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+14,2026-10-14,E-mail,4,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+15,2026-10-21,Presencial,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+16,2026-10-28,Aplicativo,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+17,2026-10-15,Chat Online,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+18,2026-10-18,Aplicativo,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+19,2026-10-06,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,
+20,2026-10-29,Telefone,2,Tempo de espera elevado,
+21,2026-10-02,Presencial,3,Dificuldade de contato com o suporte,
+22,2026-10-31,Telefone,4,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+23,2026-10-23,Chat Online,1,Cobrança ou fatura incorreta,Veio uma taxa adicional na fatura que eu não contratei.
+24,2026-10-21,Aplicativo,5,Falha ou instabilidade no sistema/aplicativo,
+25,2026-10-21,E-mail,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+26,2026-10-28,Telefone,5,Falha ou instabilidade no sistema/aplicativo,
+27,2026-10-15,E-mail,1,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+28,2026-10-09,Aplicativo,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+29,2026-10-24,Chat Online,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+30,2026-10-08,Telefone,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+31,2026-10-05,E-mail,3,Atendimento pouco resolutivo,
+32,2026-10-28,Chat Online,2,Cobrança ou fatura incorreta,
+33,2026-10-02,Presencial,2,Falta de clareza nas informações,Falta transparência nas regras de cancelamento.
+34,2026-10-30,Presencial,2,Tempo de espera elevado,
+35,2026-10-08,Telefone,3,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+36,2026-10-03,E-mail,2,Tempo de espera elevado,
+37,2026-10-01,Presencial,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+38,2026-10-14,Presencial,1,Atendimento pouco resolutivo,
+39,2026-10-15,E-mail,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+40,2026-10-19,Aplicativo,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+41,2026-10-20,Presencial,2,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+42,2026-10-05,Presencial,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+43,2026-10-11,E-mail,2,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+44,2026-10-07,Aplicativo,4,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+45,2026-10-02,Aplicativo,1,Tempo de espera elevado,
+46,2026-10-21,E-mail,1,Falha ou instabilidade no sistema/aplicativo,
+47,2026-10-12,Chat Online,3,Falta de clareza nas informações,
+48,2026-10-26,Telefone,4,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+49,2026-10-30,E-mail,2,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+50,2026-10-30,E-mail,1,Tempo de espera elevado,
+51,2026-10-03,Chat Online,2,Tempo de espera elevado,
+52,2026-10-09,E-mail,2,Tempo de espera elevado,
+53,2026-10-10,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+54,2026-10-22,E-mail,4,Tempo de espera elevado,
+55,2026-10-20,E-mail,2,Tempo de espera elevado,
+56,2026-10-20,E-mail,5,Tempo de espera elevado,
+57,2026-10-03,Aplicativo,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+58,2026-10-17,Chat Online,1,Tempo de espera elevado,
+59,2026-10-28,E-mail,5,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+60,2026-10-01,Aplicativo,1,Tempo de espera elevado,
+61,2026-10-21,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,
+62,2026-10-23,E-mail,5,Falha ou instabilidade no sistema/aplicativo,
+63,2026-10-27,Telefone,3,Falha ou instabilidade no sistema/aplicativo,
+64,2026-10-05,E-mail,3,Tempo de espera elevado,
+65,2026-10-11,E-mail,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+66,2026-10-09,E-mail,3,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+67,2026-10-29,Telefone,1,Tempo de espera elevado,
+68,2026-10-04,Presencial,1,Falta de clareza nas informações,
+69,2026-10-19,Chat Online,2,Tempo de espera elevado,
+70,2026-10-09,Presencial,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+71,2026-10-18,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+72,2026-10-25,E-mail,2,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+73,2026-10-30,Aplicativo,4,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+74,2026-10-16,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+75,2026-10-28,Chat Online,2,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+76,2026-10-30,Telefone,5,Tempo de espera elevado,
+77,2026-10-27,E-mail,4,Falta de clareza nas informações,Não ficou claro quais documentos eu precisava enviar.
+78,2026-10-19,Presencial,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+79,2026-10-24,Telefone,4,Atendimento pouco resolutivo,
+80,2026-10-20,Chat Online,4,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+81,2026-10-06,Aplicativo,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+82,2026-10-16,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,
+83,2026-10-29,Aplicativo,2,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+84,2026-10-02,E-mail,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+85,2026-10-09,Telefone,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+86,2026-10-14,Aplicativo,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+87,2026-10-08,Aplicativo,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+88,2026-10-01,Aplicativo,2,Falta de clareza nas informações,Não ficou claro quais documentos eu precisava enviar.
+89,2026-10-22,Telefone,2,Falha ou instabilidade no sistema/aplicativo,
+90,2026-10-06,Presencial,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+91,2026-10-08,Aplicativo,2,Dificuldade de contato com o suporte,Telefone de suporte só dá ocupado.
+92,2026-10-30,Presencial,3,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+93,2026-10-01,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+94,2026-10-19,Presencial,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+95,2026-10-17,Telefone,3,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+96,2026-10-14,E-mail,2,Outros,
+97,2026-10-09,Aplicativo,2,Cobrança ou fatura incorreta,
+98,2026-10-14,Aplicativo,1,Dificuldade de contato com o suporte,
+99,2026-10-01,E-mail,5,Dificuldade de contato com o suporte,Telefone de suporte só dá ocupado.
+100,2026-10-23,E-mail,1,Tempo de espera elevado,
+101,2026-10-18,Aplicativo,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+102,2026-10-26,Aplicativo,4,Falha ou instabilidade no sistema/aplicativo,
+103,2026-10-18,Telefone,1,Cobrança ou fatura incorreta,O valor final não bate com o desconto prometido.
+104,2026-10-02,Telefone,5,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+105,2026-10-26,E-mail,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+106,2026-10-11,Chat Online,2,Atendimento pouco resolutivo,Recebi respostas prontas que não tinham relação com a minha dúvida.
+107,2026-10-10,Telefone,2,Atendimento pouco resolutivo,Recebi respostas prontas que não tinham relação com a minha dúvida.
+108,2026-10-25,Chat Online,3,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+109,2026-10-07,Aplicativo,1,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+110,2026-10-01,Aplicativo,3,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+111,2026-10-14,E-mail,2,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+112,2026-10-28,Aplicativo,1,Falta de clareza nas informações,Falta transparência nas regras de cancelamento.
+113,2026-10-31,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,
+114,2026-10-31,E-mail,2,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+115,2026-10-26,E-mail,3,Outros,
+116,2026-10-06,E-mail,1,Tempo de espera elevado,
+117,2026-10-05,Chat Online,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+118,2026-10-12,Aplicativo,3,Falha ou instabilidade no sistema/aplicativo,
+119,2026-10-06,Telefone,2,Dificuldade de contato com o suporte,
+120,2026-10-15,E-mail,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+121,2026-10-16,E-mail,1,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+122,2026-10-30,Telefone,2,Dificuldade de contato com o suporte,Telefone de suporte só dá ocupado.
+123,2026-10-19,Chat Online,2,Tempo de espera elevado,
+124,2026-10-05,Aplicativo,1,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+125,2026-10-31,Chat Online,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+126,2026-10-26,Telefone,2,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+127,2026-10-30,Telefone,2,Cobrança ou fatura incorreta,Fui cobrado em duplicidade este mês.
+128,2026-10-13,E-mail,1,Tempo de espera elevado,
+129,2026-10-07,E-mail,4,Tempo de espera elevado,
+130,2026-10-29,Telefone,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+131,2026-10-16,E-mail,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+132,2026-10-29,Telefone,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+133,2026-10-17,Aplicativo,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+134,2026-10-05,Telefone,5,Tempo de espera elevado,
+135,2026-10-16,Aplicativo,1,Falha ou instabilidade no sistema/aplicativo,
+136,2026-10-30,E-mail,1,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+137,2026-10-10,Telefone,2,Falha ou instabilidade no sistema/aplicativo,
+138,2026-10-20,Telefone,4,Cobrança ou fatura incorreta,
+139,2026-10-26,Aplicativo,2,Tempo de espera elevado,
+140,2026-10-13,Presencial,2,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+141,2026-10-23,Telefone,1,Tempo de espera elevado,
+142,2026-10-27,Aplicativo,3,Cobrança ou fatura incorreta,O valor final não bate com o desconto prometido.
+143,2026-10-03,Presencial,2,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+144,2026-10-19,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+145,2026-10-01,Telefone,2,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+146,2026-10-12,Presencial,4,Dificuldade de contato com o suporte,O robô do chat não me deixa falar com um humano.
+147,2026-10-14,Chat Online,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+148,2026-10-03,Presencial,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+149,2026-10-29,E-mail,2,Tempo de espera elevado,
+150,2026-10-02,Aplicativo,1,Falta de clareza nas informações,Os prazos informados no site são diferentes do que o atendente disse.
+151,2026-10-26,Chat Online,2,Tempo de espera elevado,
+152,2026-10-29,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+153,2026-10-29,Chat Online,2,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+154,2026-10-09,Chat Online,1,Tempo de espera elevado,
+155,2026-10-03,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+156,2026-10-07,Telefone,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+157,2026-10-05,Aplicativo,3,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+158,2026-10-23,Telefone,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+159,2026-10-17,Chat Online,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+160,2026-10-25,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+161,2026-10-17,Chat Online,4,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+162,2026-10-19,E-mail,4,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+163,2026-10-14,Presencial,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+164,2026-10-26,Telefone,2,Falha ou instabilidade no sistema/aplicativo,
+165,2026-10-03,Presencial,2,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+166,2026-10-21,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+167,2026-10-25,E-mail,3,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+168,2026-10-26,Presencial,4,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+169,2026-10-05,E-mail,2,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+170,2026-10-11,Aplicativo,2,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+171,2026-10-10,Chat Online,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+172,2026-10-06,Chat Online,3,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+173,2026-10-10,Telefone,3,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+174,2026-10-02,Presencial,4,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+175,2026-10-19,Presencial,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+176,2026-10-22,Telefone,3,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+177,2026-10-25,Presencial,4,Atendimento pouco resolutivo,
+178,2026-10-28,Telefone,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+179,2026-10-22,Aplicativo,3,Tempo de espera elevado,
+180,2026-10-19,Aplicativo,1,Atendimento pouco resolutivo,
+181,2026-10-13,Telefone,2,Tempo de espera elevado,
+182,2026-10-20,Presencial,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+183,2026-10-09,Aplicativo,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+184,2026-10-28,E-mail,2,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+185,2026-10-17,E-mail,2,Dificuldade de contato com o suporte,
+186,2026-10-21,E-mail,2,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+187,2026-10-13,E-mail,1,Dificuldade de contato com o suporte,
+188,2026-10-22,Presencial,4,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+189,2026-10-04,Presencial,4,Cobrança ou fatura incorreta,
+190,2026-10-18,Chat Online,5,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+191,2026-10-15,E-mail,1,Tempo de espera elevado,
+192,2026-10-22,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+193,2026-10-11,Telefone,3,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+194,2026-10-08,E-mail,4,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+195,2026-10-21,Telefone,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+196,2026-10-26,Telefone,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+197,2026-10-28,Chat Online,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+198,2026-10-27,Aplicativo,5,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+199,2026-10-01,Presencial,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+200,2026-10-16,E-mail,2,Tempo de espera elevado,
+201,2026-10-29,Aplicativo,4,Tempo de espera elevado,
+202,2026-10-05,E-mail,2,Cobrança ou fatura incorreta,
+203,2026-10-24,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+204,2026-10-05,Presencial,2,Falta de clareza nas informações,Falta transparência nas regras de cancelamento.
+205,2026-10-01,E-mail,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+206,2026-10-11,Presencial,5,Falha ou instabilidade no sistema/aplicativo,
+207,2026-10-22,Presencial,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+208,2026-10-01,Presencial,2,Atendimento pouco resolutivo,Recebi respostas prontas que não tinham relação com a minha dúvida.
+209,2026-10-01,Presencial,2,Falha ou instabilidade no sistema/aplicativo,
+210,2026-10-28,E-mail,1,Tempo de espera elevado,
+211,2026-10-06,E-mail,5,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+212,2026-10-21,Aplicativo,2,Cobrança ou fatura incorreta,Veio uma taxa adicional na fatura que eu não contratei.
+213,2026-10-17,Presencial,3,Cobrança ou fatura incorreta,Veio uma taxa adicional na fatura que eu não contratei.
+214,2026-10-01,Presencial,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+215,2026-10-30,Chat Online,2,Dificuldade de contato com o suporte,Telefone de suporte só dá ocupado.
+216,2026-10-02,Chat Online,3,Falta de clareza nas informações,Falta transparência nas regras de cancelamento.
+217,2026-10-26,Presencial,1,Tempo de espera elevado,
+218,2026-10-03,Presencial,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+219,2026-10-22,Aplicativo,3,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+220,2026-10-27,Chat Online,1,Dificuldade de contato com o suporte,
+221,2026-10-15,Aplicativo,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+222,2026-10-14,Telefone,3,Falha ou instabilidade no sistema/aplicativo,
+223,2026-10-06,E-mail,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+224,2026-10-18,Presencial,5,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+225,2026-10-27,E-mail,2,Falha ou instabilidade no sistema/aplicativo,
+226,2026-10-25,Presencial,3,Tempo de espera elevado,
+227,2026-10-28,Chat Online,3,Falha ou instabilidade no sistema/aplicativo,
+228,2026-10-17,Aplicativo,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+229,2026-10-24,Telefone,1,Cobrança ou fatura incorreta,
+230,2026-10-20,Aplicativo,3,Falta de clareza nas informações,
+231,2026-10-21,E-mail,5,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+232,2026-10-11,Presencial,1,Tempo de espera elevado,
+233,2026-10-25,Aplicativo,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+234,2026-10-11,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+235,2026-10-08,Chat Online,2,Tempo de espera elevado,
+236,2026-10-03,E-mail,2,Falha ou instabilidade no sistema/aplicativo,
+237,2026-10-29,E-mail,5,Falha ou instabilidade no sistema/aplicativo,
+238,2026-10-05,Chat Online,1,Tempo de espera elevado,
+239,2026-10-22,Aplicativo,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+240,2026-10-09,Aplicativo,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+241,2026-10-17,Presencial,4,Tempo de espera elevado,
+242,2026-10-09,Presencial,2,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+243,2026-10-22,Presencial,2,Tempo de espera elevado,
+244,2026-10-31,Chat Online,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+245,2026-10-04,Presencial,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+246,2026-10-29,Chat Online,3,Atendimento pouco resolutivo,Recebi respostas prontas que não tinham relação com a minha dúvida.
+247,2026-10-24,Aplicativo,2,Outros,
+248,2026-10-23,Telefone,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+249,2026-10-26,E-mail,3,Falha ou instabilidade no sistema/aplicativo,
+250,2026-10-07,Chat Online,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+251,2026-10-11,Telefone,3,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+252,2026-10-26,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,Erro 500 ao tentar acessar minha conta pelo portal.
+253,2026-10-25,Chat Online,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+254,2026-10-07,Aplicativo,1,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+255,2026-10-26,Presencial,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+256,2026-10-13,Presencial,1,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+257,2026-10-03,Presencial,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+258,2026-10-04,Aplicativo,2,Falha ou instabilidade no sistema/aplicativo,
+259,2026-10-08,Telefone,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+260,2026-10-10,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+261,2026-10-26,Chat Online,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+262,2026-10-27,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+263,2026-10-01,Chat Online,2,Outros,Gostaria de mais opções de pagamento.
+264,2026-10-06,Aplicativo,1,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+265,2026-10-11,Chat Online,1,Tempo de espera elevado,
+266,2026-10-24,Telefone,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+267,2026-10-19,Presencial,1,Falta de clareza nas informações,Não ficou claro quais documentos eu precisava enviar.
+268,2026-10-24,E-mail,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+269,2026-10-28,Telefone,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+270,2026-10-22,Telefone,1,Cobrança ou fatura incorreta,Fui cobrado em duplicidade este mês.
+271,2026-10-19,Telefone,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+272,2026-10-11,E-mail,3,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+273,2026-10-12,Presencial,1,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+274,2026-10-04,E-mail,5,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+275,2026-10-17,Presencial,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+276,2026-10-14,Chat Online,3,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+277,2026-10-11,Presencial,2,Tempo de espera elevado,
+278,2026-10-03,Presencial,1,Cobrança ou fatura incorreta,Veio uma taxa adicional na fatura que eu não contratei.
+279,2026-10-10,Aplicativo,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+280,2026-10-02,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+281,2026-10-01,Aplicativo,3,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+282,2026-10-09,E-mail,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+283,2026-10-23,Telefone,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+284,2026-10-05,Presencial,1,Atendimento pouco resolutivo,
+285,2026-10-14,Chat Online,5,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+286,2026-10-02,Presencial,5,Cobrança ou fatura incorreta,
+287,2026-10-08,Aplicativo,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+288,2026-10-29,Telefone,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+289,2026-10-14,Aplicativo,3,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+290,2026-10-05,E-mail,3,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+291,2026-10-26,Presencial,2,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+292,2026-10-10,Presencial,1,Falta de clareza nas informações,Não ficou claro quais documentos eu precisava enviar.
+293,2026-10-07,Chat Online,3,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+294,2026-10-29,Presencial,4,Atendimento pouco resolutivo,
+295,2026-10-15,Chat Online,3,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+296,2026-10-15,E-mail,2,Falha ou instabilidade no sistema/aplicativo,
+297,2026-10-08,Telefone,2,Tempo de espera elevado,
+298,2026-10-06,Telefone,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+299,2026-10-08,Telefone,2,Cobrança ou fatura incorreta,Fui cobrado em duplicidade este mês.
+300,2026-10-15,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,Sistema fora do ar durante toda a manhã.
+301,2026-10-07,Chat Online,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+302,2026-10-25,Chat Online,5,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+303,2026-10-23,Chat Online,1,Tempo de espera elevado,
+304,2026-10-02,Presencial,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+305,2026-10-01,Presencial,3,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+306,2026-10-15,E-mail,2,Tempo de espera elevado,
+307,2026-10-24,Telefone,1,Falta de clareza nas informações,Os prazos informados no site são diferentes do que o atendente disse.
+308,2026-10-29,E-mail,2,Falha ou instabilidade no sistema/aplicativo,
+309,2026-10-02,Chat Online,3,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+310,2026-10-04,Presencial,2,Tempo de espera elevado,"Demora absurda no atendimento, quase desisti."
+311,2026-10-05,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+312,2026-10-08,Presencial,4,Atendimento pouco resolutivo,Problema continua pendente mesmo após o protocolo ser fechado.
+313,2026-10-15,Presencial,2,Falha ou instabilidade no sistema/aplicativo,
+314,2026-10-26,Chat Online,2,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+315,2026-10-25,Telefone,2,Falha ou instabilidade no sistema/aplicativo,
+316,2026-10-11,Chat Online,3,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+317,2026-10-04,Presencial,2,Cobrança ou fatura incorreta,
+318,2026-10-31,E-mail,1,Atendimento pouco resolutivo,
+319,2026-10-26,Chat Online,2,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+320,2026-10-14,Presencial,1,Tempo de espera elevado,Fiquei mais de 40 minutos na fila de espera antes de ser atendido.
+321,2026-10-23,Aplicativo,4,Cobrança ou fatura incorreta,
+322,2026-10-26,E-mail,1,Tempo de espera elevado,
+323,2026-10-25,Telefone,1,Atendimento pouco resolutivo,O atendente não soube resolver meu problema e encerrou o chamado.
+324,2026-10-19,Presencial,1,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+325,2026-10-09,Telefone,2,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+326,2026-10-25,Chat Online,1,Atendimento pouco resolutivo,Fui transferido três vezes e ninguém resolveu a questão.
+327,2026-10-31,Aplicativo,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+328,2026-10-06,Telefone,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+329,2026-10-02,Chat Online,1,Tempo de espera elevado,
+330,2026-10-27,Presencial,2,Cobrança ou fatura incorreta,O valor final não bate com o desconto prometido.
+331,2026-10-24,Presencial,1,Falha ou instabilidade no sistema/aplicativo,O aplicativo travou duas vezes na hora de finalizar o pedido.
+332,2026-10-21,Telefone,1,Falha ou instabilidade no sistema/aplicativo,
+333,2026-10-31,Chat Online,2,Cobrança ou fatura incorreta,O valor final não bate com o desconto prometido.
+334,2026-10-18,Presencial,1,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+335,2026-10-20,Presencial,1,Falha ou instabilidade no sistema/aplicativo,
+336,2026-10-22,Telefone,2,Falha ou instabilidade no sistema/aplicativo,Instabilidade constante no app após a última atualização.
+337,2026-10-17,E-mail,5,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+338,2026-10-30,Telefone,1,Tempo de espera elevado,
+339,2026-10-19,Chat Online,1,Atendimento pouco resolutivo,
+340,2026-10-17,Presencial,2,Tempo de espera elevado,
+341,2026-10-08,Chat Online,2,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+342,2026-10-19,Chat Online,1,Falha ou instabilidade no sistema/aplicativo,
+343,2026-10-28,E-mail,2,Falha ou instabilidade no sistema/aplicativo,
+344,2026-10-19,Telefone,2,Falha ou instabilidade no sistema/aplicativo,A página não carrega os dados da solicitação.
+345,2026-10-29,Chat Online,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
+346,2026-10-10,Presencial,3,Tempo de espera elevado,Fila de espera interminável no horário de pico.
+347,2026-10-28,Telefone,2,Tempo de espera elevado,Esperei muito tempo pelo retorno da equipe.
+348,2026-10-18,Telefone,5,Atendimento pouco resolutivo,
+349,2026-10-25,Presencial,2,Falta de clareza nas informações,Os prazos informados no site são diferentes do que o atendente disse.
+350,2026-10-27,Presencial,1,Tempo de espera elevado,"O atendimento em si foi bom, mas a espera inicial foi muito longa."
